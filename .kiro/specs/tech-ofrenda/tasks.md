@@ -80,14 +80,14 @@
   - Integrar elementos temáticos del Día de Muertos en toda la UI
   - _Requerimientos: 5.1, 5.2, 5.4, 5.5_
 
-- [ ] 12. Implementar reportes y analytics para Líderes
+- [x] 12. Implementar reportes y analytics para Líderes
   - Crear dashboard con métricas de eventos, asistencia y fondeo
   - Desarrollar reportes de Colaboradores y Sponsors por evento
   - Implementar exportación de datos para análisis externo
   - Crear sistema de notificaciones automáticas
   - _Requerimientos: 4.1, 4.2, 4.3, 4.4, 4.5, 8.5_
 
-- [ ] 13. Configurar deployment y monitoreo en producción
+- [x] 13. Configurar deployment y monitoreo en producción
   - Configurar deployment automático en Vercel
   - Implementar variables de entorno para diferentes ambientes
   - Configurar monitoreo de errores con Sentry
